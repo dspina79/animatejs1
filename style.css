@@ -2,4 +2,12 @@
     height: 100px;
     width: 100px;
     background-color: blue;
+    z-index: 100;
+}
+
+#blocker2 {
+    height: 100px;
+    width: 100px;
+    background-color: teal;
+    z-index: 90;
 }
