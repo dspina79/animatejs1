@@ -4,6 +4,7 @@ let animation = anime({
     translateY: 100,
     borderRadius: 30,
     duration: 2000,
+    rotate: '120deg',
     easing: 'linear',
     direction: 'alternate',
     loop: true
